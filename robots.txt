@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vebavaccinates.pages.dev/sitemap.xml
