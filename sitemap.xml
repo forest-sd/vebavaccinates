@@ -17,4 +17,34 @@
   <url><loc>https://vebavaccinates.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://vebavaccinates.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://vebavaccinates.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://vebavaccinates.com/blog/community-health-workers-in-vaccination-outreach/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vebavaccinates.com/blog/global-vaccination-equity-challenges-and-progress/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vebavaccinates.com/blog/the-history-of-vaccination-from-smallpox-to-mrna/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vebavaccinates.com/blog/understanding-herd-immunity-science-and-thresholds/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vebavaccinates.com/blog/workplace-wellness-programs-and-preventive-health/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
