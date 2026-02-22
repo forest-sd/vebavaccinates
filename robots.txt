@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vebavaccinates.pages.dev/sitemap.xml
+Sitemap: https://vebavaccinates.com/sitemap.xml
